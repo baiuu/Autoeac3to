@@ -1,0 +1,17 @@
+X:\0\Autoeac3to\Autoeac3to\bin\Debug\Autoeac3to.exe.config
+X:\0\Autoeac3to\Autoeac3to\bin\Debug\Autoeac3to.exe
+X:\0\Autoeac3to\Autoeac3to\bin\Debug\Autoeac3to.pdb
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.csprojAssemblyReference.cache
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\MainWindow.g.cs
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\App.g.cs
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to_MarkupCompile.cache
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to_MarkupCompile.lref
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\MainWindow.baml
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.g.resources
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.Properties.Resources.resources
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.csproj.GenerateResource.cache
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.csproj.CoreCompileInputs.cache
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.exe
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Autoeac3to.pdb
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Window1.g.cs
+X:\0\Autoeac3to\Autoeac3to\obj\Debug\Window1.baml

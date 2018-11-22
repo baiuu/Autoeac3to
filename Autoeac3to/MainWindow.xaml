@@ -1,0 +1,21 @@
+﻿<Window x:Class="Autoeac3to.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autoeac3to"
+        mc:Ignorable="d"
+        Title="AutoEac3to 0.1" Height="450" Width="800">
+    <Grid>
+        <Label Margin="10,10,688,359">BDMV地址：</Label>
+        <Button Content="BDMV" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="675,46,0,0" Click="Button_Click" Name="Button1" IsEnabled="False"/>
+        <Label Margin="10,65,669,307" Content="Eac3to工具地址："/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="574" Margin="51,42,0,0" Name="cmdtxt"  IsEnabled="False"/>
+        <Button Content="Eac3to" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="675,93,0,0" Click="Button2_Click" Name="Button2"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="574" Margin="51,89,0,0" Name="eac3topath" IsEnabled="False" />
+        <TextBox HorizontalAlignment="Left" Height="186" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="574" Margin="51,147,0,0" Name="outtxt" IsEnabled="False"/>
+        <ProgressBar HorizontalAlignment="Left" Height="32" Margin="51,358,0,0" VerticalAlignment="Top" Width="574" Name="pb2"/>
+        <Label Content="进度条：" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,330,0,0"/>
+
+    </Grid>
+</Window>
